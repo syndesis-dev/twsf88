@@ -1,0 +1,7 @@
+---
+flows:
+- steps:
+  - kind: endpoint
+    uri: twitter-mention-connector--KumbA24QSODixnbcHF3:MENTIONS
+  - kind: endpoint
+    uri: twitter-mention-connector--KumbA24QSODixnbcHF3:MENTIONS
